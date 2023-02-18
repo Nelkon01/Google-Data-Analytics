@@ -23,7 +23,7 @@ The certificates are stored in PDF format and cover the following mini courses:
 - [Analyze Data to Answer Questions](Coursera LHWYMC7JM89Q.pdf)
 - [Share Data Through the Art of Visualization](Coursera 66JVEX7VGJ5C.pdf)
 - [Data Analysis with R Programming](Coursera T7XJCFVLDA22.pdf)
-- [Google Data Analytics Capstone: Complete a Case Study](Coursera.pdf)
+- [Google Data Analytics](Coursera ULNFHL36NXSL.pdf)
 
 ## Purpose
 
