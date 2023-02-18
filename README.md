@@ -12,7 +12,7 @@ The certificates are stored in PDF format and cover the following mini courses:
 5. Analyze Data to Answer Questions
 6. Share Data Through the Art of Visualization
 7. Data Analysis with R Programming
-8. Google Data Analytics Capstone: Complete a Case Study
+8. Google Data Analytics
 
 ## Certificates
 
