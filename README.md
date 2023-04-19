@@ -16,7 +16,7 @@ The certificates are stored in PDF format and cover the following mini courses:
 
 ## Certificates
 
-![Foundations: Data, Data, Everywhere](Coursera FQRJHNRRDZWD.pdf)
+- ![Foundations: Data, Data, Everywhere]Coursera FQRJHNRRDZWD.pdf
 - [Ask Questions to Make Data-Driven Decisions](Coursera ZLGCDTTH59KD.pdf)
 - [Prepare Data for Exploration](Coursera 9U6Q4TZNB76Q.pdf)
 - [Process Data from Dirty to Clean](Coursera TH3Y6CRL5HXH.pdf)
